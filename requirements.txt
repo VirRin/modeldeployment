@@ -1,4 +1,4 @@
 flask_cors
-tensorflow
+tensorflow==2.13.0
 numpy
 pillow
